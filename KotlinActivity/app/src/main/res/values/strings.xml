@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">KotlinActivity</string>
+    <string name="game_title">Gra w kości. Autor 0000000000</string>
+    <string name="btn_play">RZUĆ KOŚĆMI</string>
+    <string name="dice_result">Wynik tego losowania: </string>
+    <string name="game_result">Wynik gry: </string>
+    <string name="result_reset">RESETUJ MYNIK</string>
+</resources>
